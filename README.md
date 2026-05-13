@@ -1,6 +1,6 @@
-# Syl'slab
+# sylslab-task-modes
 
-Syl'slab 是一套基于 Hermes Agent 的任务对话与上下文管理模式切换方案。
+Syl'slab 项目下的任务对话与上下文管理模式切换 skill 包。
 
 - **操作系统**: Windows 10
 - **Agent**: Hermes Agent
