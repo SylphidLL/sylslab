@@ -2,6 +2,11 @@
 
 Syl'slab 是一套基于 Hermes Agent 的任务对话与上下文管理模式切换方案。
 
+- **操作系统**: Windows 10
+- **Agent**: Hermes Agent
+- **大模型**: DeepSeek v4 Flash（单次输出上限 8192 tokens）
+- **Shell**: git-bash (MSYS)
+
 ## 解决的问题
 
 ### 1. 单次输出超长
